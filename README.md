@@ -6,7 +6,7 @@ whether a breast tumor is Malignant (M) or Benign (B) based on diagnostic
 measurements.
 
 ## Dataset Link
-[Position Salaries Dataset — Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+[Breast Cancer Dataset — Kaggle](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
 
 The dataset (`breast_cancer.csv`) is included in this repository for
 convenience, and is also available at the Kaggle link above.
